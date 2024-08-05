@@ -8,4 +8,4 @@
 ### Что такое pt-boy
 pt-boy - аддон от команды Positive Labs для основного бейджа конференции OFFZONE 2024
 
-![image](https://github.com/user-attachments/assets/03304d97-0e84-4b25-a9ab-f6627bbf0553)
+![ADDON_comp](https://github.com/user-attachments/assets/60d36f0b-8b9d-4add-b994-4077679b9722)
